@@ -11,7 +11,7 @@ movURL: https://user-images.githubusercontent.com/4244739/188079247-745ef374-214
 
 Some text.
 
-{% include player.html id=page.youtubURL %}
+{% include player.html id=page.youtubeURL %}
 
 ## Video1
 
