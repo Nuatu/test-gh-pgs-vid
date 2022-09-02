@@ -2,15 +2,17 @@
 layout: default
 title: p1
 description: P1
-youtubeId: FwHp8dWajoQ
+youtubeURL: FwHp8dWajoQ
+movURL: https://user-images.githubusercontent.com/4244739/188079247-745ef374-2146-4408-aa73-1ec372c37173.mov
+
 ---
 
 ## Index Page
 
 Some text.
 
-{% include player.html id=page.youtubeId %}
+{% include player.html id=page.youtubURL %}
 
 ## Video1
 
-
+{% include player.html id=page.movURL %}
