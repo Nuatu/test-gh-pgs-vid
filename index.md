@@ -9,6 +9,8 @@ youtubeURL: https://www.youtube.com/embed/FwHp8dWajoQ
 
 Some text.
 
+## Vid1
+
 <!-- {% include player.html id=page.youtubeURL %} -->
 
 <div class="embed-container">
@@ -22,9 +24,11 @@ Some text.
 </div>
 
 
-## Vid1
+## Vid2
 
 <video src="https://user-images.githubusercontent.com/4244739/188079247-745ef374-2146-4408-aa73-1ec372c37173.mov" controls="controls" style="max-width: 730px;">
 </video>
 
-## Vid2
+## Section at end of page
+
+Some more text.
