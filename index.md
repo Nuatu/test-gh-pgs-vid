@@ -9,7 +9,18 @@ youtubeURL: https://www.youtube.com/embed/FwHp8dWajoQ
 
 Some text.
 
-{% include player.html id=page.youtubeURL %}
+<!-- {% include player.html id=page.youtubeURL %} -->
+
+<div class="embed-container">
+  <iframe
+      src=ttps://www.youtube.com/embed/FwHp8dWajoQ
+      width="700"
+      height="480"
+      frameborder="0"
+      allowfullscreen="true">
+  </iframe>
+</div>
+
 
 ## Vid1
 
